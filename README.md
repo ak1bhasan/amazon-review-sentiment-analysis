@@ -401,8 +401,6 @@ Verified from the notebook:
 Amazon Review Sentiment Analysis/
 │
 ├── Amazon_Review_Sentiment_Analysis_using_RNN,_LSTM,_and_GRU.ipynb
-├── Project Report.docx
-├── Project Report.pdf
 ├── README.md
 └── Screenshots/
     ├── concept_diagram.png
